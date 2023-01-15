@@ -1,0 +1,39 @@
+﻿  Lab2.cpp
+C:\Users\f33dir\Desktop\Lab3\Functions.h(25,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Functions.h(25,70): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Functions.h(29,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Functions.h(29,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(89,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(99,13): warning C4244: инициализация: преобразование "float" в "Uint8", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(114,81): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(114,29): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(116,81): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(116,29): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(118,82): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(118,29): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(120,82): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(120,29): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(121,73): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+C:\Users\f33dir\Desktop\Lab3\Examples.h(121,73): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(122,76): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+C:\Users\f33dir\Desktop\Lab3\Examples.h(122,76): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(149,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Examples.h(157,15): warning C4244: инициализация: преобразование "float" в "uint8_t", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(13,49): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(13,28): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(15,49): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(15,28): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(17,49): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(17,28): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(19,49): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(19,28): warning C4244: инициализация: преобразование "int" в "const float", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(20,59): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(20,59): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(21,59): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(21,59): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(42,23): warning C4244: инициализация: преобразование "double" в "uint8_t", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(44,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(46,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(73,25): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\f33dir\Desktop\Lab3\Lab2.cpp(74,25): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Lab2.vcxproj -> C:\Users\f33dir\Desktop\Lab3\x64\Debug\Lab2.exe
